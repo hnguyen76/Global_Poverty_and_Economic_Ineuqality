@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "venv\\Scripts\\python.exe",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Python (Global Poverty venv)",
+  "language": "python",
+  "metadata": {
+    "debugger": true
+  }
+}
+
