@@ -1,5 +1,7 @@
 # Global Poverty and Economic Inequality
 
+https://globalpovertyandeconomicineuapplity-3vcsoixqkwqpwfjqeagxwj.streamlit.app/
+
 Professional notebook report and Streamlit dashboard for `global_poverty_economic_inequality.csv`.
 
 Created by Hieu Nguyen
